@@ -1,6 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6cbd74&height=180&text=A%20HYUNG&animation=&fontColor=000000&fontSize=70" />
-    </div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6cbd74&height=180&text=Welcome%20A%20Hyung's%20GitHub&animation=&fontColor=000000&fontSize=70" />
+    </div>  
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
@@ -17,9 +17,9 @@
           </div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnuyhaa&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnuyhaa&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> </div> 
     </div>
     
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnuyhaa&count_bg=%2387CE7C&title_bg=%237292DE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    
     
