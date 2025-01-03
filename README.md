@@ -21,7 +21,7 @@
     </div>
 <div align="center">
     <a href="https://velog.io/@gnuyhaa">
-        <img src="https://velog-readme-stats.vercel.app/api?name=gnuyhaa" alt="Velog Badge" />
+        <img src="https://velog-readme-stats.vercel.app/api/badge?name=gnuyhaa" alt="Velog Badge" />
     </a>
 </div>
 <div align="center">
