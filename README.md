@@ -15,8 +15,8 @@
     </div>
     <div style="margin: 0 auto; text-align: center;">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-        <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
     </div>
     <div style="margin: 0 auto; text-align: center;">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
