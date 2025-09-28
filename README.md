@@ -10,11 +10,12 @@
         <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
-    </div>
-    <div style="margin: 0 auto; text-align: center;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+    </div>
+    <div style="margin: 0 auto; text-align: center;">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white">
         <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
     </div>
     <div style="margin: 0 auto; text-align: center;">
