@@ -26,12 +26,14 @@
     </div>
 </div>
 
-<div align="center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div align="center">  
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gnuyhaa&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000&hide=Jupyter,HTML,CSS,PowerShell"/> 
-    </div> 
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+    <div align="center">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gnuyhaa&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000&hide=Jupyter,HTML,CSS,PowerShell"/>
+    </div>
 </div>
+
 
 <div align="center">
     <a href="https://velog.io/@gnuyhaa">
